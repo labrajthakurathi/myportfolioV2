@@ -72,7 +72,7 @@ const Project = () => {
             />
             <ProjectCard
               name="LABRAJ.COM V1"
-              url="https://redpepperxpress.com/"
+              url="https://elastic-bhabha-833ffe.netlify.app/"
               codeUrl="https://redpepperxpress.com/"
               imgUrl={Labraj}
             />
